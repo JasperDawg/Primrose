@@ -1,0 +1,39 @@
+Items: {
+	RomajedaOrchid: {
+		DisplayName: Romajeda Orchid
+		Tooltip: Summons a never forgotten friend
+	}
+
+	BearsEye: {
+		DisplayName: Bear's Eye
+		Tooltip: Summons a pet guardian angel
+	}
+
+	PrimroseKeepsake: {
+		DisplayName: Primrose Keepsake
+		Tooltip: Did they just...
+	}
+}
+
+Buffs: {
+	Kendra: {
+		DisplayName: Kendra
+		Description: A loyal friend accompanies you
+	}
+
+	BearBuff: {
+		DisplayName: Bear
+		Description: A guardian angel is following you
+	}
+
+	FurtasticDuoBuff: {
+		DisplayName: Furtastic Duo
+		Description: They just did! The Furtastic Duo will accompany you!
+	}
+}
+
+Projectiles: {
+	KendraPet.DisplayName: Kendra
+	Bear.DisplayName: Bear
+	PrimroseKeepsakeDisplay.DisplayName: Primrose Keepsake Display
+}

@@ -1,0 +1,4 @@
+displayName = a Primrose Keepsake
+author = Metarex / Lilac
+version = 0.1
+buildIgnore = .vs/*, .git/*, .agents/*, .codex/*, Properties/*, *.csproj, *.sln, *.user, obj/*, bin/*
